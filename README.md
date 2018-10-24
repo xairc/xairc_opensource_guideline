@@ -69,6 +69,7 @@ ex) [Tensorflow](https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTI
 - 행동규약을 위반사항을 발견했을때 어떻게 신고하는가? 
 
 이 프로젝트에 있는 `CODE_OF_CONDUCT.md` 파일은 [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)에서 제공하는 행동규약의 예시 파일입니다. 위 링크에 있는 프로젝트들의 저장소에서도 같은 파일들을 예제로 찾아볼 수 있습니다.
+
 &nbsp;
 
 ## 체크리스트
