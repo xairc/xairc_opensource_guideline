@@ -13,8 +13,6 @@ xairc 그룹 내의 모든 오픈소스 프로젝트는 저장소 안에 반드�
 - `CONTIRBUTING.md` (기여방법 가이드라인)
 - `CODE_OF_CONDUCT` (행동 규약)
 
-각 문서에 대한 예시 파일들을 프로젝트 내 각 파일들에 첨부하였습니다.
-
 &nbsp;
 
 ### LICENSE 선택
@@ -56,6 +54,9 @@ README는 기본적으로는 프로젝트 사용방법 및 프로젝트의 목�
 - 프로젝트의 로드맵 및 비전
 - 기여자(contributor)가 관리자(maintainer)에게 연락할 수 있는 방법
 
+이 프로젝트에 있는 `CONTRIBUTING.md` 파일은 이 문서를 작성하기 위한 템플릿입니다. ( [출처](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) ) 다음과 같은 다른 대규모 프로젝트들의 `CONTRIBUTING.md`를 참고하는 것도 좋을 것입니다.
+ex) [Tensorflow](https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md),  [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md), [node.js](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md), ...
+
 &nbsp;
 
 ### `CODE_OF_CONDUCT.md` 작성 
@@ -67,6 +68,7 @@ README는 기본적으로는 프로젝트 사용방법 및 프로젝트의 목�
 - 행동규약을 위반하면 했을때 어떤 조치를 취하는가? (해당 기여자의 프로젝트 참여 일시금지, 영구금지 등)
 - 행동규약을 위반사항을 발견했을때 어떻게 신고하는가? 
 
+이 프로젝트에 있는 `CODE_OF_CONDUCT.md` 파일은 [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)에서 제공하는 행동규약의 예시 파일입니다. 위 링크에 있는 프로젝트들의 저장소에서도 같은 파일들을 예제로 찾아볼 수 있습니다.
 &nbsp;
 
 ## 체크리스트
@@ -92,3 +94,7 @@ README는 기본적으로는 프로젝트 사용방법 및 프로젝트의 목�
 - GitHub Starting an Open Source Project ( https://opensource.guide/starting-a-project/ )
 
 - License 종류 (http://www.bloter.net/archives/209318)
+
+- CONTRIBUTING.md Template (https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md)
+
+- Contributor Covenant (https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
