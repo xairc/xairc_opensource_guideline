@@ -54,7 +54,7 @@ README는 기본적으로는 프로젝트 사용방법 및 프로젝트의 목�
 - 프로젝트의 로드맵 및 비전
 - 기여자(contributor)가 관리자(maintainer)에게 연락할 수 있는 방법
 
-이 프로젝트에 있는 `CONTRIBUTING.md` 파일은 이 문서를 작성하기 위한 템플릿입니다. ([출처](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md)) 다음과 같은 다른 대규모 프로젝트들의 `CONTRIBUTING.md`를 참고하는 것도 좋을 것입니다.
+이 프로젝트에 있는 `CONTRIBUTING.md` 파일은 이 문서를 작성하기 위한 템플릿입니다. ([출처](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md)) 예시로 다른 대규모 프로젝트들의 `CONTRIBUTING.md` 문서을 다음 링크에서 확인할 수 있습니다.
 ex) [Tensorflow](https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md),  [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md), [node.js](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md), ...
 
 &nbsp;
